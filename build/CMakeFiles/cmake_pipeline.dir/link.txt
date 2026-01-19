@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/cmake_pipeline.dir/src/main.c.o -o cmake_pipeline 
