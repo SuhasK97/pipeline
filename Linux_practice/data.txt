@@ -1,0 +1,13 @@
+This is my first line in Git Bash
+
+I am learning how to use Git
+
+Git helps track changes in code
+
+Bash is a command-line interface
+
+Practice makes me better at Git
+
+I will commit this file soon
+
+Learning Git is useful for developers

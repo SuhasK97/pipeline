@@ -1,0 +1,8 @@
+hi class
+ In this is line one.
+ In this is line two.
+ In this is line three.
+ In this is line five.
+ In this is line six.
+ bye
+

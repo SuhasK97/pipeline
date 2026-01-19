@@ -1,0 +1,6 @@
+#!/bin/bash
+
+file_path="/home/ubuntu/script1.sh"
+
+echo "The file path is: $file_path"
+

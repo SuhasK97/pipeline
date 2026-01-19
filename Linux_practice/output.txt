@@ -1,0 +1,6 @@
+total 8
+-rw-rw-r-- 1 ubuntu ubuntu   0 Dec 18 06:53 file3.txt
+-rw-rw-r-- 1 ubuntu ubuntu   0 Dec 18 06:53 data.txt
+-r-xr--r-- 1 ubuntu ubuntu 128 Dec 18 07:12 file1.txt
+-rw-rw-r-- 1 ubuntu ubuntu 128 Dec 18 07:19 file1_backup.txt
+-rw-rw-r-- 1 ubuntu ubuntu   0 Dec 18 07:37 output.txt
