@@ -31,4 +31,3 @@ add_executable(unit_tests
 )
 
 add_test(NAME firmware_unit_tests COMMAND unit_tests)
-
