@@ -27,7 +27,7 @@ add_custom_command(TARGET myfirmware.elf POST_BUILD
 enable_testing()
 
 add_executable(unit_tests
-    tests/test_main.c
+    test_folder/test_main.c
 )
 
 add_test(NAME firmware_unit_tests COMMAND unit_tests)
